@@ -30,11 +30,11 @@ O projeto foi desenvolvido seguindo as orientações do professor Nilton R.C. Sa
 
 ## Tecnologias Utilizadas ⚙️
 
-- **React**: Utilizado para construir a interface do usuário (UI) interativa, gerenciar estados e construir o front-end da aplicação.
-- **JavaScript**: Linguagem de programação principal para a criação de lógica e interação do site.
-- **CSS**: Para estilização da interface.
-- **Node.js (ou outro back-end, se aplicável)**: Caso o projeto utilize alguma lógica de servidor ou banco de dados, como uma API RESTful, o Node.js pode ser empregado.
-- **GitHub**: Para versionamento do código e colaboração com outros desenvolvedores.
+- ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) **React**: Utilizado para construir a interface do usuário (UI) interativa, gerenciar estados e construir o front-end da aplicação.
+- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/63/JavaScript-logo.png) **JavaScript**: Linguagem de programação principal para a criação de lógica e interação do site.
+- ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg) **CSS**: Para estilização da interface.
+- ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) **Node.js** (ou outro back-end, se aplicável): Caso o projeto utilize alguma lógica de servidor ou banco de dados, como uma API RESTful, o Node.js pode ser empregado.
+- ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg) **GitHub**: Para versionamento do código e colaboração com outros desenvolvedores.
 
 ---
 
