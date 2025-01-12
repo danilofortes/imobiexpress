@@ -30,11 +30,12 @@ O projeto foi desenvolvido seguindo as orientações do professor Nilton R.C. Sa
 
 ## Tecnologias Utilizadas ⚙️
 
-- ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) **React**: Utilizado para construir a interface do usuário (UI) interativa, gerenciar estados e construir o front-end da aplicação.
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/63/JavaScript-logo.png) **JavaScript**: Linguagem de programação principal para a criação de lógica e interação do site.
-- ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg) **CSS**: Para estilização da interface.
-- ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) **Node.js** (ou outro back-end, se aplicável): Caso o projeto utilize alguma lógica de servidor ou banco de dados, como uma API RESTful, o Node.js pode ser empregado.
-- ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg) **GitHub**: Para versionamento do código e colaboração com outros desenvolvedores.
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) **React**: Utilizado para construir a interface do usuário (UI) interativa, gerenciar estados e construir o front-end da aplicação.
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript**: Linguagem de programação principal para a criação de lógica e interação do site.
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS**: Para estilização da interface.
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) **Node.js** (ou outro back-end, se aplicável): Caso o projeto utilize alguma lógica de servidor ou banco de dados, como uma API RESTful, o Node.js pode ser empregado.
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) **GitHub**: Para versionamento do código e colaboração com outros desenvolvedores.
+
 
 ---
 
