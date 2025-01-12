@@ -1,70 +1,101 @@
-# Getting Started with Create React App
+# ImobiExpress 🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**ImobiExpress** é um site de imóveis em desenvolvimento, criado com o intuito de adquirir novos conhecimentos em diversas linguagens de programação. Este projeto foi desenvolvido como parte de um aprendizado seguindo as orientações do professor Nilton R.C. Santos no YouTube, utilizando as melhores práticas de desenvolvimento web.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Índice 📑
 
-### `yarn start`
+1. [Descrição](#descrição)
+2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
+3. [Instalação](#instalacao)
+4. [Como Usar](#como-usar)
+5. [Contribuindo](#contribuindo)
+6. [Licença](#licenca)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Descrição 📝
 
-### `yarn test`
+O **ImobiExpress** é uma aplicação web de busca e visualização de imóveis. O projeto visa não apenas fornecer um sistema funcional de listagem de imóveis, mas também explorar o uso de novas tecnologias e práticas de desenvolvimento.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+O projeto foi desenvolvido seguindo as orientações do professor Nilton R.C. Santos e utilizando ferramentas como o **React**. O intuito principal é aprimorar meus conhecimentos em front-end, back-end e integração de sistemas, enquanto sigo aprendendo e aplicando novas tecnologias.
 
-### `yarn build`
+### Objetivos do Projeto 🎯
+- Desenvolver um site funcional para visualização de imóveis.
+- Aprender novas linguagens e frameworks de programação.
+- Explorar o uso do React para a construção de interfaces dinâmicas e interativas.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Tecnologias Utilizadas ⚙️
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **React**: Utilizado para construir a interface do usuário (UI) interativa, gerenciar estados e construir o front-end da aplicação.
+- **JavaScript**: Linguagem de programação principal para a criação de lógica e interação do site.
+- **CSS**: Para estilização da interface.
+- **Node.js (ou outro back-end, se aplicável)**: Caso o projeto utilize alguma lógica de servidor ou banco de dados, como uma API RESTful, o Node.js pode ser empregado.
+- **GitHub**: Para versionamento do código e colaboração com outros desenvolvedores.
 
-### `yarn eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Instalação 💻
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Para rodar o **ImobiExpress** localmente, siga os passos abaixo:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/danilofortes/imobiexpress.git
+   ```
+Entre no diretório do projeto:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+  ```bash
+  cd imobiexpressInstale as dependências:
+  ```
+Se estiver utilizando npm:
 
-## Learn More
+  ```bash
+  npm install
+  ```
+Ou se estiver utilizando yarn:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  ```bash
+  yarn install
+  ```
+Execute o projeto: Se estiver utilizando npm:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  ```bash
+  npm start
+  ```
+Ou com yarn:
 
-### Code Splitting
+  ```bash
+  yarn start
+  ```
+Acesse o site: O site estará disponível em http://localhost:3000 no seu navegador.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Como Usar 🖥️
+Ao rodar o projeto localmente, você verá a interface inicial, que permite buscar e visualizar imóveis disponíveis.
+A aplicação foi construída para ser interativa, e você pode filtrar as opções de imóveis, visualizar detalhes e navegar facilmente.
+Contribuindo 🤝
+Se deseja contribuir com o projeto, siga as etapas abaixo:
 
-### Analyzing the Bundle Size
+Faça um fork deste repositório.
+Crie uma branch para a sua feature: 
+  ```bash
+  git checkout -b minha-feature.
+  ```
+Faça commit das suas alterações:
+  ```bash
+  git commit -am 'Adiciona nova feature'.
+  ```
+Envie para o repositório remoto:
+  ```bash
+  git push origin minha-feature.
+  ```
+Abra um Pull Request explicando suas modificações.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Licença 📜
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Notas Finais 📌
+A documentação será atualizada com o tempo conforme novas funcionalidades sejam adicionadas ao projeto, com mais detalhes sobre o progresso do desenvolvimento, as novas linguagens e tecnologias que estou explorando.
