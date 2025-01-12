@@ -50,8 +50,10 @@ Para rodar o **ImobiExpress** localmente, siga os passos abaixo:
 Entre no diretório do projeto:
 
   ```bash
-  cd imobiexpressInstale as dependências:
+  cd imobiexpress
   ```
+Instale as dependências:
+
 Se estiver utilizando npm:
 
   ```bash
